@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1a1a1a; 
+    color: #ff4654;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.character-info {
+    margin: 20px;
+}
+
+.character-info img {
+    max-width: 100%;
+    height: auto;
+}
+
+.game-info {
+    margin: 20px;
+    color: #1a1a1a; 
+}
+
+footer {
+    background-color: #000000; 
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
